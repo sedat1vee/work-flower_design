@@ -70,8 +70,7 @@ body {
   .article {
     flex-direction: column;
     height: auto;
-    background-position: top center;
-    background-size: 60%;
+    background: none;
     text-align: center;
     padding: 40px 20px;
   }
